@@ -1,2 +1,2 @@
-# Maze
-Maze AI-Project
+# tic tac toe
+tic tac toe AI-Project
